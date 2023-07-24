@@ -1,0 +1,2 @@
+# mvcSpringtest
+Trying MVC
